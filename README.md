@@ -14,13 +14,13 @@
 
 攻防练习平台：
 
-HackingLoops：https://www.hackingloops.com/
-XCTF_OJ 练习平台：https://adworld.xctf.org.cn/
-网络信息安全攻防学习平台：http://hackinglab.cn/index.php
+HackingLoops：https://www.hackingloops.com/\
+XCTF_OJ 练习平台：https://adworld.xctf.org.cn/\
+网络信息安全攻防学习平台：http://hackinglab.cn/index.php\
 SecurityTube：http://www.securitytube.net/
 Cybrary：https://www.cybrary.it/
 Hack This Site：https://www.hackthissite.org/
 Hacking-Tutorial：https://www.hacking-tutorial.com/
 Exploit Database：https://www.exploit-database.net/
 Hellbound Hackers：https://www.hellboundhackers.org/
-Hack In The Box：http://www.hackinthebox.org/​
+Hack In The Box：http://www.hackinthebox.org/
